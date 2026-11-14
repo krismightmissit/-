@@ -2,4 +2,19 @@
 
 Kris's readme!!
 
-Hi, hi, I'm Kris, welcome to make safe space
+Hi, hi, I'm Kris, welcome to my safe space..!
+<details>
+<summary>About me</summary>
+  
+  I go by Kris online.
+  
+  My birthday is on February 9th.
+ 
+  The right side of my head is shaved bc it makes me look so fucking cool.
+
+  Nicknames: Krissy, Krissy Sam, Kristato Chip, Dumbass, Daddy (Don't ask)
+
+  I was born in NJ, grew up in Alabama for 6 years of my life almost 7 then moved back to NJ on December 15th (the year don't matter)
+
+  
+</details>
